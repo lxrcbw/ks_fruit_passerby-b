@@ -1,5 +1,5 @@
 /*
-v1.4.7
+v1.5
 快手果园任务脚本,支持qx,loon,shadowrocket,surge,nodejs
 手机设备在boxjs里填写cookie
 开启抓包工具,果园浇一次水,在抓包记录里搜water,复制请求头里的cookie,关键参数:client_key=xxxx;did==xxx;kuaishou.api_st=xxxx;ver=xxx;ud=xxxxx
